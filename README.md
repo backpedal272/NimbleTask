@@ -1,10 +1,10 @@
-# NimbleTask
+# Nimble Task
 
 **A minimal TaskPaper-style to-do editor for macOS. Your tasks are a plain text file.**
 
 No database, no account, no sync service. Write your list in a text file you can keep anywhere and still read in 20 years. Existing TaskPaper files open as they are.
 
-![NimbleTask window with tag and project filters](Screenshot%202026-09-29%20at%2009.29.33.png)
+![Nimble Task window with tag and project filters](Screenshot%202026-09-29%20at%2009.29.33.png)
 
 > Free and open source (GPL-3.0). Part of [Nimble Apps](https://nimbleapps.ch).
 
@@ -49,7 +49,7 @@ More examples are in [`samples/`](samples/).
 
 ## Install
 
-[Download NimbleTask on the Mac App Store](https://apps.apple.com/app/nimble-task/id6761774816). It's free. More on [nimbleapps.ch](https://nimbleapps.ch/nimbletask/index.html).
+[Download Nimble Task on the Mac App Store](https://apps.apple.com/app/nimble-task/id6761774816). It's free. More on [nimbleapps.ch](https://nimbleapps.ch/nimbletask/index.html).
 
 ## Build from source
 
