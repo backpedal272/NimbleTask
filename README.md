@@ -47,6 +47,10 @@ More examples are in [`samples/`](samples/).
 
 - macOS 15.6 or later
 
+## Install
+
+[Download NimbleTask on the Mac App Store](https://apps.apple.com/app/nimble-task/id6761774816). It's free. More on [nimbleapps.ch](https://nimbleapps.ch/nimbletask/index.html).
+
 ## Build from source
 
 You need Xcode.
